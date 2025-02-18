@@ -11,8 +11,6 @@ npm install svgToMesh
 
 import { svgToMesh } from 'svgToMesh';
 
-import { svgToMesh } from 'svgToMesh';
-
 const url = 'path/to/your/svg/file.svg';
 const options = {
   depth: 2,
@@ -25,6 +23,4 @@ const meshGroup = svgToMesh(url, options);
 
 ```
 
-
 This README provides an explanation of how to install, use, and configure the `svgToMesh` function in your project. If you want to make any adjustments to this, feel free to let me know!
-
