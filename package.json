@@ -1,6 +1,6 @@
 {
     "name": "svg-to-mesh",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "convert svg 2d image to 3d mesh/model ",
     "main": "index.js",
     "dependencies": {
