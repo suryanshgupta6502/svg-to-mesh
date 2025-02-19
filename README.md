@@ -4,7 +4,7 @@
 
 ## Installation
 
-If you're using a package manager like npm, you can install `svgToMesh` by running:
+If you're using a package manager like npm, you can install `svg-to-mesh` by running:
 
 ```bash
 npm install svgToMesh
