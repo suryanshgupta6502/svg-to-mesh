@@ -7,7 +7,7 @@
 If you're using a package manager like npm, you can install `svg-to-mesh` by running:
 
 ```bash
-npm install svgToMesh
+npm install svg-to-mesh
 
 import { svgToMesh } from 'svg-to-mesh';
 
