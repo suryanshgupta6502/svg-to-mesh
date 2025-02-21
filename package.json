@@ -1,29 +1,32 @@
 {
-    "name": "svg-to-mesh",
-    "version": "1.0.1",
-    "description": "convert svg 2d image to 3d mesh/model ",
-    "main": "index.js",
-    "dependencies": {
-        "three": "^0.173.0"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/suryanshgupta6502/svg-to-mesh.git"
-    },
-    "keywords": [
-        "threejs",
-        "svg",
-        "mesh",
-        "3d",
-        "2d"
-    ],
-    "author": "Suryansh Gupta",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/suryanshgupta6502/svg-to-mesh/issues"
-    },
-    "homepage": "https://github.com/suryanshgupta6502/svg-to-mesh#readme"
+  "name": "svg-to-mesh",
+  "version": "1.0.0",
+  "description": "convert svg to 3d model/mesh",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.173.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanshgupta6502/svg-to-mesh.git"
+  },
+  "keywords": [
+    "svg",
+    "threejs",
+    "three",
+    "3d",
+    "mesh",
+    "model",
+    "2d"
+  ],
+  "author": "Suryansh gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryanshgupta6502/svg-to-mesh/issues"
+  },
+  "homepage": "https://github.com/suryanshgupta6502/svg-to-mesh#readme"
 }
