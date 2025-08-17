@@ -1,7 +1,7 @@
 {
   "name": "svg-to-mesh",
-  "version": "1.0.1",
-  "description": "convert svg to 3d model/mesh",
+  "version": "2.0.0",
+  "description": "svg-to-mesh is a JavaScript utility function that converts an SVG file into a 3D mesh. This function is ideal for turning 2D vector-based graphics into 3D models that can be used in WebGL or other 3D environments.",
   "main": "index.js",
   "dependencies": {
     "three": "^0.173.0"
@@ -15,15 +15,15 @@
     "url": "git+https://github.com/suryanshgupta6502/svg-to-mesh.git"
   },
   "keywords": [
-    "svg",
     "threejs",
     "three",
+    "2d",
     "3d",
-    "mesh",
+    "svg",
     "model",
-    "2d"
+    "mesh"
   ],
-  "author": "Suryansh gupta",
+  "author": "suryansh gupta",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/suryanshgupta6502/svg-to-mesh/issues"
