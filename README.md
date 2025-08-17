@@ -34,8 +34,7 @@ async function createMesh() {
   // Now you can use the meshGroup object
 }
 
-
-
+```
 
 
 ## Keywords
@@ -43,5 +42,4 @@ async function createMesh() {
 package, utility, threejs, nodejs, svg to mesh, svg, mesh, svg-to-mesh
 
 
-```
 This README provides an explanation of how to install, use, and configure the `svg-to-mesh` function in your project. If you want to make any adjustments to this, feel free to let me know!
